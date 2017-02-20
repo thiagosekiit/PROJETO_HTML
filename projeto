@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Horario</title>
+<body>
+<table border = "2" bgcolor = "gold" aling = "Center">
+<tr><td>Dia</td><td>Horario</td><td>Materia</td><td>Professor</td></tr>
+<tr><td>Segunda</td><td>19:00 - 22:30</td><td>Linguagem de programação 2</td><td>Galvani</td></tr>
+<tr><td>Terça</td><td>19:00 - 22:30</td><td>Estatistica</td><td>Andrerson</td></tr>
+<tr><td>Quarta</td><td>19:00 - 22:30</td><td>Rede 1</td><td>Torres</td></tr>
+<tr><td>Quinta</td><td>19:00 - 22:30</td><td>Banco de dados 2</td><td>Marco</td></tr>
+<tr><td>Sexta</td><td>19:00 - 20:30<br> 21:00 - 22:30</td><td>Eng de SW <br> Prog Linear</td><td>André <br> Malu</td></tr></tr>
+
+
+
+</table>
+</body>
+</html>
